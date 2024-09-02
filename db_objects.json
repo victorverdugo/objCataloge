@@ -1,0 +1,40 @@
+{
+
+    "1":{
+        "name" : "Uno",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "by" : "Victor Verdugo",
+        "img" : "../img/obj_0001_02.jpg",
+        "extraImgs" : ["../img/obj_0001_02.jpg","../img/obj_0001_01.jpg","../img/obj_0005_01.jpg"]
+
+    },
+    "2":{
+        "name" : "Dos",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "img" : "../img/obj_0001_01.jpg"
+
+    },
+    "3":{
+        "name" : "Tres",
+        "aka" : "Sister's Crown",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "img" : "../img/obj_0001_01.jpg"
+
+    },"4":{
+        "name" : "Tres",
+        "aka" : "Sister's Crown",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "img" : "../img/obj_0001_01.jpg"
+
+    },"5":{
+        "name" : "L'Ile Noire",
+        "by" : "Hergè",
+        "aka" : "Sister's Crown",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "img" : "../img/obj_0005_01.jpg"
+
+    }
+
+
+
+}
