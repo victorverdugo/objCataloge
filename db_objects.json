@@ -1,5 +1,4 @@
 {
-
     "1":{
         "name" : "Uno",
         "desc" : "Primer figurín relleno.",
@@ -57,8 +56,6 @@
         "by" : "Lewis Carroll",
         "date" : "05 Jun 2023",
         "place": "Milan"
-    },
-
-
+    }
 
 }
