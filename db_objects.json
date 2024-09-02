@@ -2,11 +2,10 @@
 
     "1":{
         "name" : "Uno",
-        "desc" : "This is the description of the Uno's dog webpage.",
+        "desc" : "Primer figurín relleno.",
         "by" : "Victor Verdugo",
-        "img" : "../img/obj_0001_02.jpg",
-        "extraImgs" : ["../img/obj_0001_02.jpg","../img/obj_0001_01.jpg","../img/obj_0005_01.jpg"]
-
+        "date" : "05 Jun 2023",
+        "place": "Milan"
     },
     "2":{
         "name" : "Dos",
@@ -20,13 +19,31 @@
         "desc" : "This is the description of the Uno's dog webpage.",
         "img" : "../img/obj_0001_01.jpg"
 
-    },"4":{
+    },
+    "4":{
         "name" : "Tres",
         "aka" : "Sister's Crown",
         "desc" : "This is the description of the Uno's dog webpage.",
         "img" : "../img/obj_0001_01.jpg"
 
-    },"5":{
+    },
+    "5":{
+        "name" : "L'Ile Noire",
+        "by" : "Hergè",
+        "aka" : "Sister's Crown",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "img" : "../img/obj_0005_01.jpg"
+
+    },
+    "10":{
+        "name" : "L'Ile Noire",
+        "by" : "Hergè",
+        "aka" : "Sister's Crown",
+        "desc" : "This is the description of the Uno's dog webpage.",
+        "img" : "../img/obj_0005_01.jpg"
+
+    },
+    "100":{
         "name" : "L'Ile Noire",
         "by" : "Hergè",
         "aka" : "Sister's Crown",
