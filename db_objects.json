@@ -50,7 +50,14 @@
         "desc" : "This is the description of the Uno's dog webpage.",
         "img" : "../img/obj_0005_01.jpg"
 
-    }
+    },
+    "110":{
+        "name" : "Alice's Adventures in Wonderland & Through the Looking-Glass",
+        "desc" : "The Little Folsks Edition",
+        "by" : "Lewis Carroll",
+        "date" : "05 Jun 2023",
+        "place": "Milan"
+    },
 
 
 
